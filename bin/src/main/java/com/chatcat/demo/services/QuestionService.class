@@ -1,27 +1,0 @@
- ˛∫æ   9 '  7src/main/java/com/chatbot/demo/services/QuestionService  java/lang/Object 
-repository LQuestionRepository; RuntimeInvisibleAnnotations LAutowired; <init> ()V Code  java/lang/Error ¿Unresolved compilation problems: 
-	The declared package "com.chatbot.demo.services" does not match the expected package "src.main.java.com.chatbot.demo.services"
-	The import java.util cannot be resolved
-	The import org cannot be resolved
-	The import org cannot be resolved
-	The import com cannot be resolved
-	The import com cannot be resolved
-	Service cannot be resolved to a type
-	Implicit super constructor Object() is undefined for default constructor. Must define an explicit constructor
-	Autowired cannot be resolved to a type
-	QuestionRepository cannot be resolved to a type
-	List cannot be resolved to a type
-	Question cannot be resolved to a type
-	QuestionRepository cannot be resolved to a type
-
-   	  (Ljava/lang/String;)V LineNumberTable LocalVariableTable this 9Lsrc/main/java/com/chatbot/demo/services/QuestionService; getQuestions ()LList; 	Signature ()LList<LQuestion;>;  ùUnresolved compilation problems: 
-	List cannot be resolved to a type
-	Question cannot be resolved to a type
-	QuestionRepository cannot be resolved to a type
- 
-SourceFile QuestionService.java 	LService; ! List # Question % QuestionRepository MissingTypes !                    	 
-     4     
-ª Y∑ ø                   
-                 4     
-ª Y∑ ø                   
-                   &       " $
