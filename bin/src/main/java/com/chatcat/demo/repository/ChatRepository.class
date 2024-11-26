@@ -1,0 +1,4 @@
+Êþº¾   9   8src/main/java/com/chatbot/demo/repository/ChatRepository  java/lang/Object 
+SourceFile ChatRepository.java 	Signature 3Ljava/lang/Object;LMongoRepository<LChat;LString;>; RuntimeInvisibleAnnotations LRepository; InconsistentHierarchy  Chat  MongoRepository  String MissingTypes                    	     
+           
+     

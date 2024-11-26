@@ -1,0 +1,33 @@
+Êþº¾   9 &  -src/main/java/com/chatbot/demo/model/Question  java/lang/Object id Ljava/lang/String; RuntimeInvisibleAnnotations LId; question option <init> ()V Code  java/lang/Error æUnresolved compilation problems: 
+	The declared package "com.example.demo.model" does not match the expected package "src.main.java.com.chatbot.demo.model"
+	The import org cannot be resolved
+	The import org cannot be resolved
+	Document cannot be resolved to a type
+	Implicit super constructor Object() is undefined for default constructor. Must define an explicit constructor
+	Id cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+
+     (Ljava/lang/String;)V LineNumberTable LocalVariableTable this /Lsrc/main/java/com/chatbot/demo/model/Question; getId ()Ljava/lang/String;  lUnresolved compilation problems: 
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+ getQuestion 	getOption 
+SourceFile Question.java 
+LDocument; 
+collection $ java/lang/String MissingTypes !                   	     
+            4     
+» Y· ¿                   
+            4     
+» Y· ¿                   
+            4     
+» Y· ¿                   
+            4     
+» Y· ¿                   
+                 !   %     #
