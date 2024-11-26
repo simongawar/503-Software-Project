@@ -1,0 +1,4 @@
+Êþº¾   9   <src/main/java/com/chatbot/demo/repository/QuestionRepository  java/lang/Object 
+SourceFile QuestionRepository.java 	Signature 7Ljava/lang/Object;LMongoRepository<LQuestion;LString;>; RuntimeInvisibleAnnotations LRepository; InconsistentHierarchy  MongoRepository  Question  String MissingTypes                    	     
+           
+     
